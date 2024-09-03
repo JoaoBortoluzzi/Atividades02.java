@@ -12,7 +12,7 @@ public class SalarioEImposto {
         double valorBonus = 0.0;
         double valorImposto = 0.0;
 
-        System.out.println("Olá, informe-nos o salário bruto do funcionário: ");
+        System.out.println("Olá, informe-nos o salário bruto do funcionário:");
         salarioBruto = sc.nextDouble();
         System.out.println("Agora nos diga, por quantos anos ele trabalhou pela empresa: ");
         anosTrabalhados = sc.nextInt();
